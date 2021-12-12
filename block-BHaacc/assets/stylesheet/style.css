@@ -229,6 +229,9 @@ main{
     height: 5px;
     border-radius: 0px;
 }
+progress::-webkit-progress-value{
+     background: black; 
+    }
 /* progress bar ends here  */
 
 /* About model image  */
